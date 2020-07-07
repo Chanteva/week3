@@ -7,7 +7,7 @@ this is practice
   
   <p>& a paragraph..</p>
   
-    <ul>Javascript</u>
-    <ul>Python</u>
-    <ul>Java</u>
+   <ul>Javascript</u>
+   <ul>Python</u>
+   <ul>Java</u>
   
